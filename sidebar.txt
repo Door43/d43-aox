@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aox:home|Door43 (aox)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aox|d43-aox repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aox/archive/master.zip|d43-aox.zip]]
+
+**Recent Changes**
+{{changes>ns = aox}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aox|Ethnologue data]]
+
